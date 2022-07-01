@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62bb00b7dcba6012d073f758"
+  },
+  "departureAirport": "MUC",
+  "arrivalAirport": "SFO",
+  "aircraft": "Airbus A380",
+  "distance": 12000,
+  "intercontinental": true
+},{
+  "_id": {
+    "$oid": "62bb00d8dcba6012d073f75b"
+  },
+  "departureAirport": "LHR",
+  "arrivalAirport": "TXL",
+  "aircraft": "Airbus A320",
+  "distance": 950,
+  "intercontinental": false
+}]
